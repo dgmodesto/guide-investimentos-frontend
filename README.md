@@ -1,10 +1,17 @@
+PROJETO Obras Bibliográficas
+
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
+Versão [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Para executar a aplicação do frontend execute o comando abaixo
+
+Run `ng serve`
+Navegar para `http://localhost:4200/`.
+
+INFORMAÇÕES ADICIONAIS
 
 ## Code scaffolding
 
